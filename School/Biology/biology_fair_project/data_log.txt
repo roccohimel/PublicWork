@@ -1,0 +1,73 @@
+Rocco Himel
+
+(CC BY-ND)
+
+FINAL DATA LOG SHEET
+Experiment: Effects of Different Liquids on Apple Browning
+
+Purpose: To determine which liquid prevents apple slices from browning the most over 90 minutes.
+
+Independent Variable: Type of liquid used.
+Dependent Variable: Amount of apple browning.
+Controlled Variables: Apple slice size, amount of liquid, dipping time (30 seconds), observation intervals, and environmental conditions.
+
+1. QUANTITATIVE DATA
+
+Browning scale: 1 = no browning; 5 = severe browning.
+
+Time (min) | Water | Lemon | Saltwater | Vinegar | Milk
+-----------|-------|-------|-----------|---------|-----
+0          | 1     | 1     | 1         | 1       | 1
+15         | 1     | 1     | 1.5       | 1.5     | 1
+30         | 1     | 1     | 1.5       | 2       | 1
+45         | 1     | 1     | 2         | 2.5     | 1
+60         | 1     | 1     | 2         | 3       | 1
+75         | 1     | 1     | 2.5       | 3.5     | 1
+90         | 1     | 1     | 2.5       | 4       | 1
+
+2. QUALITATIVE DATA
+
+Before the experiment, all apple slices were bright yellow and smooth.
+
+Liquid       | Color After 90 Minutes | Texture After 90 Minutes
+-------------|------------------------|-------------------------
+Water        | Same                   | Rough
+Lemon Juice  | Lime-green             | Same (smooth)
+Saltwater    | Slight browning        | Soggy
+Vinegar      | Heavy browning         | Soggy
+Milk         | White                  | Rough
+
+3. FINAL STATISTICAL DATA
+
+Statistics use all seven measurements for each liquid.
+
+Liquid       | Mean | Median | Mode          | Range | Change (0-90 min)
+-------------|------|--------|---------------|-------|------------------
+Water        | 1.00 | 1      | 1             | 0     | 0
+Lemon Juice  | 1.00 | 1      | 1             | 0     | 0
+Saltwater    | 1.86 | 2      | 1.5, 2, 2.5   | 1.5   | +1.5
+Vinegar      | 2.50 | 2.5    | No mode       | 3     | +3
+Milk         | 1.00 | 1      | 1             | 0     | 0
+
+Mean = Sum of all measurements / Number of measurements
+Median = Middle measurement when arranged in order
+Mode = Most frequently occurring measurement
+Range = Highest measurement - Lowest measurement
+Change = Final measurement - Initial measurement
+
+Example using vinegar:
+Mean = (1 + 1.5 + 2 + 2.5 + 3 + 3.5 + 4) / 7 = 2.5
+Median = 2.5
+Mode = None
+Range = 4 - 1 = 3
+Change = 4 - 1 = 3
+
+5. OBSERVATIONS AND RESULTS
+
+During the experiment, water, lemon juice, and milk
+prevented visible browning, maintaining a score of 1. Saltwater
+showed slight browning, reaching aa score of 2.5. Vinegar caused
+the most browning, reaching a score of 4. The apples also showed
+texture changes, with saltwater and vinegar making the slices soggy.
+Lemon juice maintained the original smooth texture but changed the
+apple's color to slightly lime-green.

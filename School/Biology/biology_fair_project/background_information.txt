@@ -1,0 +1,21 @@
+Rocco Himel 09/15/2026 P1 Biology
+
+Background Information
+
+When an apple is cut or bitten into, its cells break open and release an enzyme called polyphenol oxidase, or PPO. This enzyme reacts with oxygen in the air, and the reaction produces a brown pigment called melanin, the same pigment responsible for bruises on fruit and skin. This process, known as enzymatic browning, is the reason apple slices start to turn brown just minutes after being exposed to air. While browning doesn't necessarily mean an apple has gone bad, it does make the fruit look less appetizing and can eventually affect its texture, which is why so many people look for ways to slow it down.
+
+Different liquids affect this process in different ways, largely because they target different parts of the chemical reaction. Lemon juice is high in vitamin C, also known as ascorbic acid. Vitamin C is an antioxidant, meaning it reacts with oxygen more quickly than the enzyme does. By doing this, it essentially "uses up" the oxygen that PPO needs before the enzyme ever gets the chance to react with it, slowing the browning process significantly. Lemon juice is also acidic, and the low pH itself can disrupt the enzyme's ability to function.
+
+Saltwater works in a somewhat different way. The salt ions interfere with the enzyme's structure, making it harder for PPO to carry out the reaction that leads to browning. Vinegar, like lemon juice, is acidic and lowers the pH on the surface of the apple, which also slows the enzyme down, although vinegar does not contain the same antioxidant properties as lemon juice. Milk takes a more physical approach rather than a chemical one. Instead of interfering with the enzyme directly, it coats the surface of the apple slice and limits its contact with oxygen in the air, which slows the reaction simply by reducing the enzyme's access to oxygen.
+
+Water, on the other hand, does not block oxygen, change the pH, or interfere with the enzyme in any meaningful way. It may rinse away a small amount of surface enzyme, but otherwise it offers very little protection. Because of this, apple slices dipped only in water tend to brown faster than slices treated with the other liquids.
+
+Because vitamin C so effectively blocks the browning reaction by competing with the enzyme for oxygen, lemon juice is expected to be one of the most successful liquids at preventing or slowing enzymatic browning in this experiment, with saltwater and vinegar performing moderately well, milk performing somewhat less effectively, and water performing the worst overall.
+
+Bibliography
+
+Science Buddies. "Comparing the Rate of Enzymatic Browning in Fruit." Science Buddies, www.sciencebuddies.org.
+
+Exploratorium. "Browning Apples." Exploratorium Science Snacks, www.exploratorium.edu.
+
+USDA. "Why Do Apples Turn Brown?" Agricultural Research Service, www.ars.usda.gov.

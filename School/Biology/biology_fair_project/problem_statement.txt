@@ -1,0 +1,14 @@
+Problem Statement:
+Does the type of liquid an apple slice is dipped in affect how quickly and severely it turns brown?
+
+Quantitative Data:
+- Time (minutes/hours) for browning to begin
+- Percentage (%) or area (cm^2) of apple slice surface that turns brown
+- Browning rate measured at set intervals (example: every 15 min)
+- Numerical browning scale ratings (example: 1-5) if using a rubric
+
+Qualitative Data:
+- Type of liquid used (water, lemon juice, saltwater, vinegar, milk, ... - independent variable)
+- Color of the apple slice (pale yellow, light brown, dark brown, black)
+- Texture/appearance changes (mushy, dry, spotted)
+- Photos comparing slices side by side

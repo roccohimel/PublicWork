@@ -1,0 +1,29 @@
+Rocco Himel
+
+(CC BY-ND)
+
+Table 1: Apple Browning (1-5 Scale)
+
+Time (min) | Water | Lemon | Saltwater | Vinegar | Milk
+-----------|-------|-------|-----------|---------|-----
+0          |1      |1      |1          |1        |1
+15         |1      |1      |1.5        |1.5      |1
+30         |1      |1      |1.5        |2        |1
+45         |1      |1      |2          |2.5      |1
+60         |1      |1      |2          |3        |1
+75         |1      |1      |2.5        |3.5      |1
+90         |1      |1      |2.5        |4        |1
+
+
+Table 2: Color and Texture After 90 Minutes
+
+The color and texture of the apples before were bright
+yellow and smooth.
+
+Liquid      | Color          | Texture
+------------|---------- -----|--------
+Water       |Same            |Rough  
+Lemon Juice |Lime-green      |Same
+Saltwater   |Slight browning |Soggy
+Vinegar     |Browning heavily|Soggy
+Milk        |White           |Rough
