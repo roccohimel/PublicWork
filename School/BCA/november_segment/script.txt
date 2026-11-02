@@ -1,0 +1,136 @@
+OPEN SOURCE: WHY IT MATTERS
+
+Written by Rocco Himel
+
+FORMAT: Educational / Explainer Video
+RUNTIME: Approximately 2 Minutes
+PRODUCTION: Screen Recordings, Motion Graphics, Voice-Over
+
+FADE IN:
+
+INT. DIGITAL PRESENTATION - DAY
+
+A BLACK SCREEN. A blinking terminal cursor appears. Lines of source code
+begin filling the screen.
+
+                         NARRATOR (V.O.)
+          Every program you use, from your web
+          browser to your operating system, is
+          built using something called source
+          code.
+
+ON-SCREEN GRAPHIC: "WHAT IS SOURCE CODE?"
+
+A screen recording shows a simple C program in a text editor.
+
+                         NARRATOR (V.O.) (CONT'D)
+          Source code is a collection of
+          instructions written by programmers
+          that tells a computer what to do.
+
+The code is compiled and executed. A terminal displays "Hello, World!"
+
+                         NARRATOR (V.O.)
+          But here's the interesting part.
+          Not all software gives you access
+          to its source code.
+
+CUT TO:
+
+ON-SCREEN GRAPHIC: A split-screen comparison appears.
+
+LEFT: "PROPRIETARY SOFTWARE"
+RIGHT: "OPEN SOURCE SOFTWARE"
+
+                         NARRATOR (V.O.)
+          Most proprietary software keeps
+          its source code private. This means
+          users generally cannot inspect
+          or modify how the program works.
+
+The proprietary side fades out. The open source side expands to fill
+the screen.
+
+                         NARRATOR (V.O.) (CONT'D)
+          Open source software takes a
+          different approach. Its code is
+          publicly available, allowing anyone
+          to study, modify, and share it
+          under an open source license.
+
+CUT TO:
+
+SCREEN RECORDING: A public Git repository opens. The cursor scrolls
+through source files and commit history.
+
+                         NARRATOR (V.O.)
+          So why is this important?
+
+ON-SCREEN TEXT: "1. FREEDOM"
+
+                         NARRATOR (V.O.)
+          First, freedom. Open source gives
+          users the ability to customize
+          software instead of relying
+          entirely on one company.
+
+ON-SCREEN TEXT: "2. TRANSPARENCY"
+
+A code review appears on screen. A highlighted line is corrected.
+
+                         NARRATOR (V.O.)
+          Second, transparency. Anyone can
+          inspect the code, identify problems,
+          and contribute improvements.
+          This makes independent security
+          reviews possible.
+
+ON-SCREEN TEXT: "3. COLLABORATION"
+
+SCREEN RECORDING: A Git repository displays multiple contributors and
+merged pull requests.
+
+                         NARRATOR (V.O.)
+          Third, collaboration. Developers
+          around the world can work together,
+          share ideas, and improve the same
+          software.
+
+CUT TO:
+
+ON-SCREEN GRAPHIC: The Linux, Firefox, Blender, and LibreOffice logos
+appear individually.
+
+                         NARRATOR (V.O.)
+          And open source isn't some small
+          experiment. Projects like Linux,
+          Firefox, Blender, and LibreOffice
+          demonstrate how powerful this
+          development model can be.
+
+CUT TO:
+
+SCREEN RECORDING: A Linux desktop is shown. The terminal opens and
+displays a source code repository.
+
+                         NARRATOR (V.O.)
+          Open source gives students the
+          opportunity to learn from real
+          programs, developers the freedom
+          to innovate, and users greater
+          control over their technology.
+
+The screen slowly darkens.
+
+                         NARRATOR (V.O.)
+                         (with emphasis)
+          Because the future of technology
+          shouldn't just be something we use.
+          It should be something we can
+          understand, improve, and share.
+
+ON-SCREEN TEXT: "OPEN SOURCE. OPEN POSSIBILITIES."
+
+FADE OUT.
+
+THE END.
